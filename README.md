@@ -1,3 +1,3 @@
-# employee_adaptation_website
-Прототип вэб-сервиса, помогающего адаптироваться сотрудникам на новом рабочем месте. Разработан в рамках участия в студенческом чемпионате CASE IN 2021.
-C# ASP.NET
+version https://git-lfs.github.com/spec/v1
+oid sha256:292fdb1c7d60d4db9a6a02d258af3a233cfa911a47055c439b16d6cf83d7d1ce
+size 317
